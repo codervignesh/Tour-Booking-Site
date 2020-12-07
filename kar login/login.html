@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href="log_style.css">
+    <script src="loginscript.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+</head>
+<body>
+    <div class="login-form">
+        <h1>Login</h1>
+        <form action="#" method="GET" onsubmit="return validation()">
+            <input type="text" name="name" id="name" placeholder="Enter Your Username" class="txtb">
+            <input type="password" name="password" id="password" placeholder="Enter your Password" class="txtb">
+            <input type="submit" name="login" value="Login" class="login-btn">
+            <a href="#">New user, click here to register now</a>
+        </form>
+    </div>
+    <div id="errors" style="color: red;"></div>
+    <script src="reg_val.js"></script>
+</body>
+</html>

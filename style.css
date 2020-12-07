@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+body {
+    background: url('https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2019/6/12/5f77ac61d2ab4d6a86e1aa0b110179c8_18.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.center {
+    margin: 70px auto;
+    width: 540px;
+    /*border: 1px solid #243342;*/
+    border-radius: 35px;
+    position: relative;
+    /*background: #2c3e50;*/
+}
+
+.center .btns {
+    display: flex;
+    padding: 40px 0px 20px 30px;
+}
+
+.btns a {
+    text-decoration: none;
+    padding: 15px 75px;
+    font-size: 30px;
+    color: white;
+    font-family: arial;
+    background: #2981bc;
+    border-radius: 2px;
+}
+
+a.a2 {
+    background: #34495e;
+}
+
+.center .header {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding: 5px 0 30px 0;
+}
+
+form input {
+    height: 45px;
+    width: 200px;
+    font-size: 20px;
+    background: none;
+    background-color: #34495e;
+    border: 1px solid #3498db;
+    border-radius: 2px;
+    padding: 0 10px;
+    margin-left: 35px;
+    outline: none;
+    color: white;
+}
+
+::placeholder {
+    color: #7dbde8;
+}
+
+form input.fstname {
+    border-radius: 10px;
+}
+
+form input.lstname {
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+form button {
+    margin: 30px 0 40px 35px;
+    width: 465px;
+    height: 50px;
+    font-size: 23px;
+    cursor: pointer;
+    color: white;
+    background: #2981bc;
+    border-radius: 30px;
+    border: 1px solid #2573a7;
+}
+
+form input.email {
+    border-radius: 10px;
+    width: 445px;
+    margin-top: 20px;
+}
+
+form input[type="submit"] {
+    margin: 30px 0 5px 35px;
+    width: 465px;
+    height: 50px;
+    font-size: 23px;
+    cursor: pointer;
+    color: white;
+    background: #2981bc;
+    border-radius: 30px;
+    border: 1px solid #2573a7;
+}
+
+form input[type="submit"]:hover {
+    background: #2990d1;
+    transition: .5s;
+}
+
+.center .header1 {
+    padding-bottom: 10px;
+}
+
+.center .login-form {
+    display: none;
+}
+
+.center .signup_error {
+    user-select: none;
+    font-size: 20px;
+    text-align: center;
+    padding: 8px 0;
+    margin: -20px 35px 20px 35px;
+    color: #ff9999;
+    background: rgba(255, 0, 0, .3);
+    border-radius: 3px;
+    border: 1px solid #b30000;
+    display: none;
+}
+
+.center .login_error {
+    user-select: none;
+    font-size: 20px;
+    text-align: center;
+    padding: 8px 0;
+    margin: -20px 35px 20px 35px;
+    color: #ff9999;
+    background: rgba(255, 0, 0, .3);
+    border-radius: 3px;
+    border: 1px solid #b30000;
+    display: none;
+}
