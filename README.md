@@ -12,6 +12,6 @@
 
 # CREDITS  
 :white_check_mark:**Vignesh R**
-![GitHub followers](https://img.shields.io/github/followers/codervignesh?label=mr-anonymous-official&style=social) <br/>
+![GitHub followers](https://img.shields.io/github/followers/codervignesh?label=codervignesh&style=social) <br/>
 <br/>
-[![alt text][1.1]][1][![alt text][1.2]][11] <br/>
+[![alt text][1.1]][1] <br/>
