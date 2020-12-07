@@ -5,6 +5,9 @@
 
 # Tour-Booking-Web-Project 
 
+# SCREENSHOTS
+![Tour-booking](https://user-images.githubusercontent.com/66480834/101343357-e656aa80-38a9-11eb-8796-be851b9120e2.gif)
+
 # FEATURES
 > * Tour booking web page using HTML, CSS, JS, PHP.
 > * Using XAMPP as database  
