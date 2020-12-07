@@ -1,8 +1,7 @@
-![GitHub language count](https://img.shields.io/github/languages/count/codervignesh/Tour-Booking-Web-Project
-?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/codervignesh/Tour-Booking-Web-Project?style=plastic)
 
 [1.1]: https://img.icons8.com/ios-filled/25/000000/instagram-new.png
-[1]: https://www.instagram.com/_vignesh_
+[1]: https://www.instagram.com/vignesh_r_
 
 # Tour-Booking-Web-Project 
 
